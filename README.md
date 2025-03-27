@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shivam Trivedi
 ======================================================================================================================================
 
-Software Engineer
----------------------------
-
 Software engineer with experience in building scalable, high-performance applications. I specialize in modern JavaScript frameworks, .NET technologies, and backend optimizations. From crafting sleek user interfaces to architecting efficient backend systems, I thrive on solving complex problems with clean and maintainable code. I have contributed to optimizing web applications, developing scalable solutions, and improving system performance. My work includes optimizing a certification and quote generation system, enhancing an admin support interface, and upgrading projects to modern frameworks for better efficiency and performance. Beyond development, I actively contribute to open-source projects, constantly learning and experimenting with new technologies to stay ahead in the ever-evolving tech landscape.
 
 * 🖥️  See my portfolio at [Shivam Trivedi](http://shivamtrivedi.in)
