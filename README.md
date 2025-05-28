@@ -1,4 +1,4 @@
-# Hola folks! 👋
+# Hey folks! 👋
 
 I'm **SHIVAM**, a software engineer passionate about building scalable and high-performance applications. I specialize in modern JavaScript frameworks, .NET technologies, and backend optimizations. From crafting sleek UIs to optimizing frontend and backend systems, I love solving complex problems with clean, maintainable code.
 
