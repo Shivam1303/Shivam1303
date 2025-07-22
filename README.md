@@ -9,7 +9,7 @@ Dev building cool and high-performance applications
 - **Contributing to open-source** and collaborating with developers.
 
 ### 🌱 Learning & Growth
-- **EncoreJs** for backend development.
+- **NodeJs** for backend development.
 - **Advanced TypeScript patterns** for scalable applications.
 - **.NET 8 & modern backend architectures** for high-performance APIs.
 
