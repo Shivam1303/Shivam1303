@@ -1,6 +1,6 @@
 # Hey folks! 👋
 
-Dev building cool and high-performance applications
+Software Dev building cool and high-performance applications!
 
 ### 🚀 What I Do
 - **Optimizing web performance** for a seamless user experience.
@@ -9,13 +9,13 @@ Dev building cool and high-performance applications
 - **Contributing to open-source** and collaborating with developers.
 
 ### 🌱 Learning & Growth
-- **NodeJs** for backend development.
+- **NodeJs And JAVA** for backend development.
 - **Advanced TypeScript patterns** for scalable applications.
-- **.NET 8 & modern backend architectures** for high-performance APIs.
+- **Spring Boot & modern backend architectures** for high-performance APIs.
 
 ### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, C#, Dart
-- **Frameworks:** Node.js, React, Next.js, Angular, .NET Core
+- **Languages:** JavaScript, TypeScript, JAVA, Dart
+- **Frameworks:** Spring Boot, Node.js, React, Next.js, Angular
 - **Databases:** MySQL, MSSQL, PostgreSQL, BigQuery, MongoDB, Firebase
 - **Other Tools:** GraphQL, REST APIs, Redux, Git, Agile Development, NPM Packages
 
