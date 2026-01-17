@@ -1,6 +1,6 @@
-# Hey folks! 👋
+# Hey folks!
 
-Software Dev building cool and high-performance applications!
+Software Dev building cool applications!
 
 ### 🚀 What I Do
 - **Optimizing web performance** for a seamless user experience.
